@@ -41,6 +41,7 @@
 						<applicationName>Time-zone-api-vishnu-2</applicationName>
 						<password>Apple107*</password>
 						<muleVersion>4.3.0</muleVersion>
+						<objectStoreV2>true</objectStoreV2>
 					</cloudHubDeployment>
 				</configuration>
 			</plugin>
