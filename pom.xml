@@ -35,11 +35,11 @@
 				<configuration>
 					<cloudHubDeployment>
 						<username>VISHNUMK5</username>
-						<password>Apple107*</password>
 						<environment>Sandbox</environment>
 						<workers>1</workers>
 						<workerType>Micro</workerType>
-						<applicationName>Time-zone-api-vishnu-1</applicationName>
+						<applicationName>Time-zone-api-vishnu-2</applicationName>
+						<password>Apple107*</password>
 						<muleVersion>4.3.0</muleVersion>
 					</cloudHubDeployment>
 				</configuration>
